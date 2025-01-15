@@ -12,8 +12,8 @@
 
 <p align="left">✨ I'm currently learning: React Typescript.<br>🎯 Goals: I want to be a good frontend developer. 👍<br>🎲 Leisure activities: <br>
 
-- Playgame 🎮
 - Coding 👾
+- Playgame 🎮
 - Play with cat 🐈
 - Eat food 🍔
 
